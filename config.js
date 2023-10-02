@@ -14,10 +14,34 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'postgres://pasindu_md_user:ltuZoVLTJBHmi3KJPRux1Hr6dT67uLow@dpg-ckd8lu6smu8c73f381a0-a.frankfurt-postgres.render.com/pasindu_md' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = '🖍️ *Deploy-࿓𝐑𝐞𝐚𝐥 paͥsiͣyͫaᴹᴿ᭄*
+
+🖍️ *User-࿓𝐑𝐞𝐚𝐥 paͥsiͣyͫaᴹᴿ᭄*
+
+🖍️ *p𝙖𝙨𝙞𝙮𝙖 𝘽𝙤𝙩 𝙂𝙧𝙤𝙪𝙥 1*
+⚔️
+*https://chat.whatsapp.com/CmOavmQ8BT4B4yi9iikEY2*
+
+🖍️ *𝙋𝙖𝙨𝙞𝙮𝙖 𝘽𝙤𝙩 𝙂𝙧𝙤𝙪𝙥 2*
+⚔️
+*https://chat.whatsapp.com/GWRXKOhpALBD4w03PRt7TO*
+
+🖍️ *BEST & FAST BOT GROUP*
+🖍️ *SHARE THIS Group Your FRENDS*
+
+🖍️ *𝗣𝗮𝘀𝗶𝘆𝗮 𝗗𝗮𝗿𝗸 𝗧𝗼𝘄𝗲𝗿(𝚖𝚢 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕)*
+ ⚔️
+*https://www.youtube.com/@PasiyaDarkTower*
+**ˢᵘᵇˢᶜʳⁱᵇᵉ*
+**ˡⁱᵏᵉ*
+**ˢʰᵃʳᵉ*
+**ᶜᵒᵐᵐᵉⁿᵗ*
+
+🌀
+*Dark nero v9 whatsapp bot*🌀'
 
 
 
@@ -25,7 +49,7 @@ global.POSTGRESQL_URL = ''
 
 global.OWNER_NUMBER = '94767438882'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'pasiya_X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
